@@ -22,7 +22,7 @@ In the future I hope to change a few things.
 -Maybe even two player battles
 
 III.
--Programmed by Tim Cope kirbycopejr@yahoo.com/
+-Programmed by Tim Cope
 -All pics by Tim Cope
 -This is version 0.3 beta 6/13/01
 -The files are unlocked and in basic so other programmers can change it for the better
@@ -33,4 +33,4 @@ III.
 -Download my DBZ pics file from TiCalc.org for more inforamtion on the pics
 
 IV. 
-Thanks to Programmers Anonymous for cool scrooling pic source code and Jimmy Rose for showing me a few new things.
+Thanks to Programmers Anonymous for cool scrooling pic source code and J.R. for showing me a few new things.

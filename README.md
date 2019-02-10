@@ -1,7 +1,6 @@
 # ti-calc
-A backup of TI calculator games and apps I made as a kid. I seem to have lost some projects due to GeoCities and Tripod shutting down long ago.
+A backup of TI calculator games and apps I made as a kid.
 
-## The Crowning Achievement of My TI Development
-"[DBZ - Sayin Saga Part One](https://github.com/kirbycope/ti-calc/tree/master/89p/dbzsayin1)" was included in the TiCalc.Org CD that shipped with the [TI Connectivity Kit](https://education.ti.com/en/products/accessories/connectivity-kit) in the early 2000s.
+[View the Wiki](https://github.com/kirbycope/ti-calc/wiki)
 
-![Screenshot](https://raw.githubusercontent.com/kirbycope/ti-calc/master/ticalccd.jpg)
+![Screenshot](https://raw.githubusercontent.com/kirbycope/ti-calc/master/ti-calc.png)

@@ -16,6 +16,4 @@ II. Kirby's Dreamland 2 Demo is a very short demo version of the GameBoy counter
 
 III. In the near future I hope to at least finish the first world. The graphics for the levels could use improvement, but that is a minor detail for TI- 89 basic.
 
-IV. I would like to that my friend Adam Thomas for giving me the game. Without it I would have never got the idea.
-
-V. You can contact me by going to  www.geocities.com/kirbycopejr or e-mail me at kirbycopejr@yahoo.com
+IV. I would like to thank my friend A.T. for giving me the game. Without it I would have never got the idea.

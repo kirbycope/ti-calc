@@ -61,6 +61,4 @@ II. All if not most of the files beginning with db were created by downloading a
 
 III. These images were made for my game that is a tentative project ( I work on it when I feel like, but I need help, suggestions, etc...).
 
-IV. I would like to thank TiCalc.org for their message boards, Geocities for hosting my site, and anyone who will send me thier two cents about TI stuuf I have made.
-
-V. If you have any comments, suggestions, death threats, or would like to help in some way please e-mail me at kirbycopejr@yahoo.com or go to www.geocities.com/kirbycopejr
+IV. I would like to thank TiCalc.org for their message boards and anyone who will send me thier two cents about TI stuff I have made.

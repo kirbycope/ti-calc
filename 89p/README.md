@@ -14,7 +14,8 @@ Back in 8th grade I took Alegbra 1. I had a TI-89 that my mom's friend had used 
   * I found some pictures online and edited them using [IrfanView](https://www.irfanview.com/). I then used [89IVIEW+](https://www.ticalc.org/archives/files/fileinfo/72/7261.html) that let me convert images to TI-89 screen size and format (.89i).  
   ![Alt text](/89p/dragon/CELL.jpg?raw=true "Battle screen") 
 * TI-89 GameShark (c. Jul 2001)
-  * I found a pretty fun RPG that was another TI-89 game. The thing is TI-89 variables are accessable via `VAR-LINK` and any running program. Apps can lock or archive them but it's a command away from being unrestricted and then changed (to give max health).
+  * I found a pretty fun RPG that was another TI-89 game. The thing is TI-89 variables are accessable via `VAR-LINK` and any running program. Apps can lock or archive them but it's a command away from being unrestricted and then changed (to give max health).  
+  ![Alt text](/89p/gs/GS.JPG?raw=true "GameShark splash screen") 
 * Kirby's Dream Land 2 (c. Aug 2001)
   * I experimented with moving a character around the screen and looping pictures to make animations.  
   ![Alt text](/89p/kirby/TITLE.jpg?raw=true "Title screen") 

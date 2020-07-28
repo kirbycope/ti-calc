@@ -9,7 +9,7 @@ Back in 8th grade I took Alegbra 1. I had a TI-89 that my mom's friend had used 
 * DBZ Saiyan Saga (c. Jun 2001)
   * My buddy showed me code for an explosion which was drawing a circle and basically undrawing it using formulas. He had shown us a line game where "rats" would race using a RNG and we would bet on with would win. I had taken to doodling on the graph using the tiny crosshair tool and drew the fight between Goku, Piccolo, and Raditz. Naturally the lines became energy blasts and the circles became the impact explosions. I used some DBZ Pics (below) for the intro/story segment.  
   ![Alt text](/89p/dbzsayin1/BATTLE.jpg?raw=true "Battle screen") 
-  * Included on the [CD](https://archive.org/details/ticalc-org-cd) shipped with the TI Connectivity Kit
+  * Included on the [CD](https://archive.org/details/ticalc-org-cd) shipped with the [TI Connectivity Kit](https://education.ti.com/en/products/accessories/connectivity-kit)
 * DBZ Pics (c. Jun 2001)
   * I found some pictures online and edited them using [IrfanView](https://www.irfanview.com/). I then used [89IVIEW+](https://www.ticalc.org/archives/files/fileinfo/72/7261.html) that let me convert images to TI-89 screen size and format (.89i).  
   ![Alt text](/89p/dragon/CELL.jpg?raw=true "Battle screen") 

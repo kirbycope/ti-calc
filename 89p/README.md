@@ -3,6 +3,11 @@
 ## Background
 Back in 8th grade I took Alegbra 1. I had a TI-89 that my mom's friend had used in college and didn't need anymore. One day I was at my friend's uncle's house and didn't know anyone and was bored off my rocker. My buddy handed me his TI-92 Plus and showed me the code editor. He showed me the logic loops his dad had just taught him. The rest of 8th and 9th grade I spent typing each character out on the calculator and programming during class and lunch breaks. I uploaded most of my code to [TiCalc.org](https://www.ticalc.org/archives/files/authors/52/5205.html) not all of it survived though.
 
+## Desktop Tools
+* IDE - [TiEdit](http://pengels.bplaced.net/index.php/tiedit)
+* Image Editor - [89IVIEW+](https://www.ticalc.org/archives/files/fileinfo/72/7261.html)
+* Emulator - [TiEmu](http://lpg.ticalc.org/prj_tiemu/)
+
 ## Apps I Remember Writing
 * MIDDIS (c. ~2000)
   * The first app I wrote and it would solve for the middle-point of a line. From there it grew to cover all equations I used in Allegbra 1 and it showed the work (printing each calculation it was doing and the result). My teacher saw me using it and when I showed him the code he said something like, "you understand the equation well enough to code it."

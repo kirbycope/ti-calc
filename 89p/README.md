@@ -20,5 +20,5 @@ Back in 8th grade I took Alegbra 1. I had a TI-89 that my mom's friend had used 
   * I experimented with moving a character around the screen and looping pictures to make animations.  
   ![Alt text](/89p/kirby/TITLE.jpg?raw=true "Title screen") 
 * Final Fantasy 89 (c. Apr 2002)
-  * I made a game based on a fanfic I wrote for FF7. It had a working overworld, leveling through combat, and interactive menus.
-  
+  * I made a game based on a fanfic I wrote for FF7. It had a working overworld, leveling through combat, and interactive menus.  
+  ![Alt text](/89p/ff89/ff89.png?raw=true "Title screen")  

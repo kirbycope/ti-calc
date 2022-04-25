@@ -1,5 +1,5 @@
 # ti-calc
-A [backup](www.ticalc.org/archives/files/authors/52/5205.html) of TI calculator games and apps I made as a kid.
+A [backup](//www.ticalc.org/archives/files/authors/52/5205.html) of TI calculator games and apps I made as a kid.
 
 [View the Wiki](https://github.com/kirbycope/ti-calc/wiki)
 
